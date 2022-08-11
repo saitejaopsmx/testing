@@ -9,6 +9,6 @@ entries:
     name: hello-kubernetes
     type: application
     urls:
-    - https://raw.githubusercontent.com/saitejaopsmx/helmrepo/main/hello-kubernetes-1.0.4.tgz
+    - https://raw.githubusercontent.com/saitejaopsmx/helmrepo/master/hello-kubernetes-1.0.4.tgz
     version: 1.0.4
 generated: "2022-08-11T15:37:17.648144811+05:30"
